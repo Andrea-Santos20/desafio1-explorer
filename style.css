@@ -1,0 +1,71 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-size: 15px;
+    
+   
+}
+
+.figura {
+    margin: 64px 72px 32px;
+}
+
+h1 {
+    color: #3F3D56;          
+    font-weight: 700;  
+    font-family: 'Dosis';     
+    margin: 32px 66px 16px 66px;
+}
+
+h1 span  {
+    color: #EE24FF;
+    font-weight: 700;
+}
+
+.descricao {
+    color: #828282;         
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.descricao p strong {
+    color: #3F3D56;   
+}
+
+p {
+    margin-bottom: 32px;
+    font-family: 'Open Sans';
+    margin: 0 36px 32px 50px;
+}
+
+.destino {   
+    margin: 0 36px 64px 50px;
+    font-family: 'Open Sans';
+}
+
+.line {
+    width: 391px;
+    height: 0;
+    border: 1px solid #ECEFF2;
+    margin: 0 auto 16px;
+}
+
+ #icones {
+    color: #3F3D56;        
+    font-weight: 700;
+    font-family: 'Open Sans';
+}
+
+footer {
+    margin-bottom: 40.83px;
+}
+
+ #icones a + a {
+    margin-left: 28px;
+}
+
+.onda {   
+    width: 100%;
+    
+    bottom: 0; 
+}
